@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "Moeder Roof Installation",
+    "phone": "+13107083431",
+    "category": "gutter installation",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Gutter Experts",
+      "heroSubline": "Protecting homes and businesses from water damage with expert gutter installation and maintenance. Serving Los Angeles County and beyond for over a decade.",
+      "aboutTitle": "Decades of Gutter Expertise",
+      "aboutText": [
+        "Moeder Roof Installation started with a simple mission: to provide reliable and effective gutter solutions to the residents of Long Beach. We saw firsthand the damage that inadequate gutter systems could inflict on homes in our coastal climate, and we knew we could make a difference.",
+        "Our approach is straightforward: meticulous assessment, durable materials, and precise installation. We prioritize clear communication and treat every project, big or small, with the same level of dedication and care. We aren't satisfied until you are.",
+        "We're proud to be a part of the Long Beach community. From Belmont Shore to Bixby Knolls, we’re committed to protecting the homes and businesses that make this city special. We source materials locally and actively support community initiatives."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Long Beach architecture and weather patterns."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Durable, weather-resistant gutters built to last in Southern California's climate."
+        },
+        {
+          "title": "Precise Installation",
+          "description": "Expert craftsmanship ensures optimal performance and prevents water damage."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "Prompt, professional, and dedicated to your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Schedule a free gutter inspection and estimate. Call now to safeguard your property from water damage."
+    },
+    "services": [
+      {
+        "slug": "seamless-gutter-installation",
+        "name": "Seamless Gutter Installation",
+        "shortDescription": "Eliminate leaks and enhance curb appeal with our seamless gutter solutions.",
+        "description": "Seamless gutters are custom-made on-site to perfectly fit your home's dimensions, minimizing the number of joints and drastically reducing the risk of leaks. This is crucial in Long Beach, where even minimal rainfall can cause significant damage if not properly managed. We use only the highest quality aluminum, copper, and steel, ensuring durability and longevity in the face of our intense UV rays and occasional Santa Ana winds.\n\nOur installation process begins with a thorough assessment of your roofline and drainage needs. We then fabricate the seamless gutters on-site, ensuring a perfect fit. Our experienced installers use hidden hangers for a clean, aesthetically pleasing look. We also ensure proper downspout placement to effectively channel water away from your foundation.\n\nChoose seamless gutters for superior performance, reduced maintenance, and enhanced curb appeal. Protect your Long Beach home from water damage with a durable and reliable seamless gutter system.",
+        "process": [
+          "Step 1: Comprehensive roof and drainage assessment.",
+          "Step 2: On-site custom fabrication of seamless gutters.",
+          "Step 3: Precise installation with hidden hangers.",
+          "Step 4: Downspout placement for optimal water diversion."
+        ],
+        "benefits": [
+          "Reduced leaks and water damage",
+          "Enhanced curb appeal",
+          "Minimal maintenance",
+          "Custom fit for your home"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for seamless gutters?",
+            "answer": "We offer seamless gutters in aluminum, copper, and steel, each chosen for its durability and resistance to corrosion in the Long Beach climate."
+          },
+          {
+            "question": "How long does seamless gutter installation take?",
+            "answer": "The installation time depends on the size and complexity of your home, but most seamless gutter installations can be completed in one to two days."
+          },
+          {
+            "question": "Are seamless gutters more expensive than traditional gutters?",
+            "answer": "While the initial cost might be slightly higher, seamless gutters offer long-term value due to their reduced maintenance and increased lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-repair-and-maintenance",
+        "name": "Gutter Repair & Maintenance",
+        "shortDescription": "Extend the life of your gutters with our comprehensive repair and maintenance services.",
+        "description": "Regular gutter maintenance is essential for preventing costly water damage to your Long Beach home. Our repair and maintenance services address common issues such as leaks, clogs, sagging, and damaged downspouts. We understand the unique challenges posed by our local climate, from the accumulation of leaves and debris to the corrosive effects of saltwater air near the coast.\n\nOur maintenance services include thorough cleaning, inspection, and minor repairs. We remove leaves, twigs, and other debris that can clog your gutters and downspouts, preventing proper water flow. We also inspect your gutters for signs of damage, such as leaks, cracks, and sagging, and provide prompt repairs to prevent further deterioration.\n\nDon't wait until you have a major water damage problem. Schedule regular gutter maintenance with Moeder Roof Installation and protect your investment.",
+        "process": [
+          "Step 1: Thorough gutter cleaning and debris removal.",
+          "Step 2: Detailed inspection for damage and potential issues.",
+          "Step 3: Minor repairs, including leak sealing and hanger replacement.",
+          "Step 4: Downspout clearing and optimization."
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Extends gutter lifespan",
+          "Reduces the risk of costly repairs",
+          "Maintains curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the fall and spring, to remove accumulated leaves and debris."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs of gutter damage include leaks, sagging, rust, and overflowing during rain. If you notice any of these issues, contact us for an inspection."
+          },
+          {
+            "question": "Can you repair gutters made of any material?",
+            "answer": "Yes, we have experience repairing gutters made of aluminum, copper, steel, and vinyl."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-guard-installation",
+        "name": "Gutter Guard Installation",
+        "shortDescription": "Prevent clogs and eliminate gutter cleaning with our durable gutter guard systems.",
+        "description": "Tired of constantly cleaning your gutters? Gutter guards provide a simple and effective solution by preventing leaves, twigs, and other debris from entering your gutters, while still allowing water to flow freely. This is especially beneficial in Long Beach, where palm trees and other vegetation can quickly clog unprotected gutters.\n\nWe offer a variety of gutter guard systems to suit your specific needs and budget. Our options include mesh screens, surface tension guards, and foam inserts, each designed to provide reliable protection against clogs. Our experienced installers will ensure that your gutter guards are properly installed for optimal performance.\n\nInvest in gutter guards and enjoy hassle-free gutter maintenance for years to come.",
+        "process": [
+          "Step 1: Assessment of your gutter system and debris accumulation.",
+          "Step 2: Selection of the appropriate gutter guard system.",
+          "Step 3: Professional installation of gutter guards.",
+          "Step 4: Final inspection and performance testing."
+        ],
+        "benefits": [
+          "Eliminates gutter cleaning",
+          "Prevents clogs and water damage",
+          "Extends gutter lifespan",
+          "Reduces maintenance costs"
+        ],
+        "faq": [
+          {
+            "question": "What types of gutter guards do you offer?",
+            "answer": "We offer a variety of gutter guard systems, including mesh screens, surface tension guards, and foam inserts, to suit different needs and budgets."
+          },
+          {
+            "question": "How much do gutter guards cost?",
+            "answer": "The cost of gutter guards depends on the type of system and the size of your home. Contact us for a free estimate."
+          },
+          {
+            "question": "Will gutter guards completely eliminate the need for gutter maintenance?",
+            "answer": "While gutter guards significantly reduce the need for cleaning, occasional inspection and maintenance may still be necessary to remove accumulated debris on top of the guards."
+          }
+        ]
+      },
+      {
+        "slug": "aluminum-gutter-services",
+        "name": "Aluminum Gutter Services",
+        "shortDescription": "Lightweight, durable, and cost-effective aluminum gutters for Long Beach homes.",
+        "description": "Aluminum gutters are a popular choice for Long Beach homeowners due to their affordability, durability, and resistance to rust. They are lightweight, making them easy to install, and can be painted to match your home's exterior. Aluminum stands up well to the marine layer and coastal conditions common in our area.\n\nWe offer a full range of aluminum gutter services, including installation, repair, and replacement. We use only high-quality aluminum materials and employ experienced installers to ensure a long-lasting and reliable gutter system. Whether you need new gutters for a new construction project or repairs to your existing aluminum gutters, we've got you covered.\n\nChoose aluminum gutters for a cost-effective and reliable solution to your drainage needs.",
+        "process": [
+          "Step 1: Measurement and design of your aluminum gutter system.",
+          "Step 2: Custom fabrication of aluminum gutters to fit your home.",
+          "Step 3: Professional installation with secure hangers.",
+          "Step 4: Sealing and testing for optimal performance."
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Lightweight and easy to install",
+          "Rust-resistant",
+          "Customizable with paint"
+        ],
+        "faq": [
+          {
+            "question": "How long do aluminum gutters last?",
+            "answer": "With proper maintenance, aluminum gutters can last for 20-30 years."
+          },
+          {
+            "question": "Can aluminum gutters be painted?",
+            "answer": "Yes, aluminum gutters can be painted to match your home's exterior."
+          },
+          {
+            "question": "Are aluminum gutters suitable for coastal environments?",
+            "answer": "Yes, aluminum gutters are rust-resistant and can withstand the corrosive effects of saltwater air."
+          }
+        ]
+      },
+      {
+        "slug": "copper-gutter-installation",
+        "name": "Copper Gutter Installation",
+        "shortDescription": "Add elegance and value to your home with our premium copper gutter systems.",
+        "description": "Copper gutters are a premium choice for homeowners seeking a durable, long-lasting, and aesthetically pleasing gutter solution. Copper develops a beautiful patina over time, adding character and value to your home. While more expensive upfront, copper gutters offer exceptional longevity and require minimal maintenance.\n\nOur copper gutter installation services are performed by experienced craftsmen who specialize in working with this high-end material. We use only the highest quality copper and employ meticulous installation techniques to ensure a seamless and leak-free system. Copper is particularly suited to the older Craftsman and Spanish Colonial Revival homes common in areas of Long Beach and Los Angeles.\n\nInvest in copper gutters and enhance the beauty and value of your home for generations to come.",
+        "process": [
+          "Step 1: Detailed consultation and design of your copper gutter system.",
+          "Step 2: Expert fabrication and soldering of copper gutters.",
+          "Step 3: Precise installation with copper hangers and fasteners.",
+          "Step 4: Final inspection and polishing."
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Aesthetic appeal and added value",
+          "Minimal maintenance",
+          "Environmentally friendly"
+        ],
+        "faq": [
+          {
+            "question": "How long do copper gutters last?",
+            "answer": "Copper gutters can last for 50-100 years or more with proper care."
+          },
+          {
+            "question": "Do copper gutters require maintenance?",
+            "answer": "Copper gutters require very little maintenance. Occasional cleaning to remove debris is recommended."
+          },
+          {
+            "question": "Will copper gutters turn green?",
+            "answer": "Yes, copper gutters will develop a natural patina over time, which is a greenish-blue color. This patina is a protective layer that enhances the gutters' durability."
+          }
+        ]
+      },
+      {
+        "slug": "downspout-installation-and-repair",
+        "name": "Downspout Installation & Repair",
+        "shortDescription": "Ensure proper water drainage with our professional downspout services.",
+        "description": "Downspouts are a critical component of your gutter system, responsible for channeling water away from your foundation. Improperly installed or damaged downspouts can lead to water damage, foundation problems, and landscaping erosion. In Long Beach, where we experience periods of intense rainfall followed by long dry spells, it's essential to ensure your downspouts are functioning correctly.\n\nWe offer a full range of downspout services, including installation, repair, and replacement. We can install new downspouts, repair damaged downspouts, and relocate downspouts to improve water drainage. We also offer downspout extensions to further direct water away from your foundation.\n\nProtect your home from water damage with our professional downspout services.",
+        "process": [
+          "Step 1: Assessment of your drainage needs and existing downspout system.",
+          "Step 2: Selection of appropriate downspout materials and placement.",
+          "Step 3: Professional installation or repair of downspouts.",
+          "Step 4: Testing and optimization for effective water diversion."
+        ],
+        "benefits": [
+          "Prevents water damage to your foundation",
+          "Protects your landscaping from erosion",
+          "Ensures proper water drainage",
+          "Extends the life of your gutter system"
+        ],
+        "faq": [
+          {
+            "question": "How far should downspouts extend from my foundation?",
+            "answer": "Downspouts should extend at least 4-6 feet away from your foundation to prevent water from pooling around the base of your home."
+          },
+          {
+            "question": "What are the signs that my downspouts need repair?",
+            "answer": "Signs of downspout damage include cracks, leaks, and detached sections."
+          },
+          {
+            "question": "Can you install downspout extensions?",
+            "answer": "Yes, we offer downspout extensions to further direct water away from your foundation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation is proud to provide top-quality gutter installation services to the residents of Los Angeles. From the iconic Spanish Colonial Revival architecture of the 1920s to modern homes, we understand the unique needs of LA homeowners. Our experienced team ensures your gutters are properly installed and maintained, protecting your home from water damage.\n\nLos Angeles' warm, dry climate means effective water management is crucial, especially during the occasional heavy rainfall. Moeder Roof Installation offers a variety of gutter solutions to suit your home's style and protect it from the elements. We are committed to providing reliable and affordable gutter services throughout the city.",
+        "localContext": "We consider the architectural styles prevalent in Los Angeles, like the 1920s Spanish Colonial Revival, when recommending gutter solutions.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Hollywood"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation provides expert gutter installation services in Pasadena, California. We specialize in working with the beautiful Craftsman bungalows that characterize much of Pasadena's residential architecture from the 1910s to 1930s. Our team understands the nuances of these historic homes and ensures that gutter installations complement their unique aesthetic.\n\nPasadena's warm, dry climate necessitates effective gutter systems to protect against water damage during seasonal rains. Moeder Roof Installation offers a range of gutter styles and materials to suit your Pasadena home, ensuring optimal performance and longevity. We are dedicated to providing exceptional service and protecting your investment.",
+        "localContext": "Many homes in Pasadena feature 1910s-30s Craftsman bungalows, and we carefully match gutter styles to preserve their historical charm.",
+        "nearbyAreas": [
+          "Altadena",
+          "South Pasadena",
+          "San Marino"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation is your trusted gutter installation provider in Irvine, California. As a master-planned community with homes primarily built from the 1970s to the present, Irvine presents a variety of architectural styles and gutter needs. We have the experience and expertise to handle any gutter project, big or small.\n\nIrvine's warm, dry climate requires reliable gutter systems to protect homes from water damage, especially during infrequent but intense rainfall. Moeder Roof Installation offers a wide selection of gutter materials and styles to suit your Irvine home and budget. We are committed to providing quality workmanship and excellent customer service.",
+        "localContext": "Irvine is a master-planned community with homes built from the 1970s to the present, requiring diverse gutter solutions.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation proudly serves the gutter installation needs of Santa Clarita, California. With its numerous master-planned communities developed from the 1990s to the 2020s, Santa Clarita boasts a variety of modern home styles. We are experts in installing and maintaining gutter systems for all types of homes in the area.\n\nSanta Clarita's warm and dry climate means that reliable gutter systems are crucial for protecting your home from water damage. Moeder Roof Installation offers a range of gutter solutions, including seamless gutters, to ensure optimal performance and longevity. We are dedicated to providing exceptional service and peace of mind to Santa Clarita homeowners.",
+        "localContext": "Santa Clarita features newer master-planned communities built from the 1990s to 2020s, and we understand the specific gutter needs of these homes.",
+        "nearbyAreas": [
+          "Valencia",
+          "Saugus",
+          "Canyon Country"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation provides professional gutter installation services to the residents of Torrance, California. Known for its post-war homes built in the 1950s and 1960s, Torrance presents unique challenges and opportunities for gutter solutions. Our team is experienced in working with these homes and ensuring proper water management.\n\nTorrance's warm, dry climate necessitates reliable gutter systems to protect homes from water damage during the rainy season. Moeder Roof Installation offers a variety of gutter materials and styles to suit your Torrance home and budget. We are committed to providing quality workmanship and excellent customer service.",
+        "localContext": "Many homes in Torrance were built in the 1950s and 60s, and we are familiar with the gutter needs of these post-war homes.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Gardena",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation is your local expert for gutter installation in Long Beach, California. From historic craftsman homes to modern developments, Long Beach features a diverse range of architectural styles. We have the experience and expertise to provide tailored gutter solutions for every home in the city. Our team is dedicated to protecting your home from water damage with high-quality gutter systems.\n\nLong Beach's mild, dry climate means effective water management is still crucial, especially during occasional rainfall. Moeder Roof Installation offers a variety of gutter materials and styles to suit your home's needs and budget. We are committed to providing reliable and affordable gutter services to the Long Beach community.",
+        "localContext": "As a local Long Beach business, we understand the unique architectural styles and climate considerations of the area.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation is proud to serve Anaheim, California, with top-notch gutter installation services. Anaheim features a diverse mix of housing styles, from older neighborhoods with established homes to newer developments. We have the expertise to handle any gutter project, ensuring your home is protected from water damage.\n\nAnaheim's warm and dry climate makes effective gutter systems essential for protecting homes during the rainy season. Moeder Roof Installation offers a wide selection of gutter materials and styles to suit your Anaheim home and budget. We are dedicated to providing quality workmanship and excellent customer service to the Anaheim community.",
+        "localContext": "We understand the diverse housing styles in Anaheim and provide tailored gutter solutions to meet the unique needs of each home.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation is your trusted provider for gutter installation in Huntington Beach, California. Known for its beautiful beaches and diverse neighborhoods, Huntington Beach presents a variety of gutter needs. From beachfront properties to inland homes, we have the experience and expertise to handle any gutter project, big or small. Our team is dedicated to protecting your home from water damage with high-quality gutter systems.\n\nHuntington Beach's warm, dry climate requires reliable gutter systems to protect homes from water damage, especially during infrequent but intense rainfall. Moeder Roof Installation offers a wide selection of gutter materials and styles to suit your Huntington Beach home and budget. We are committed to providing quality workmanship and excellent customer service.",
+        "localContext": "Huntington Beach's coastal environment requires durable gutter solutions to withstand the elements and protect homes from water damage.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Moeder Roof Installation is dedicated to providing expert gutter installation services in Glendale, California. Glendale features a mix of architectural styles, from historic homes to modern developments. We have the expertise to handle any gutter project, ensuring your home is protected from water damage. Our team is experienced in working with the unique needs of Glendale homes.\n\nGlendale's warm and dry climate makes effective gutter systems essential for protecting homes during the rainy season. Moeder Roof Installation offers a wide selection of gutter materials and styles to suit your Glendale home and budget. We are committed to providing quality workmanship and excellent customer service to the Glendale community.",
+        "localContext": "We take into account the varied architectural styles found in Glendale when recommending gutter solutions for homes.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "La Canada Flintridge"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Seamless Gutter Installation",
+        "text": "Moeder Roof Installation did an excellent job installing seamless gutters on my home in Belmont Shore. The crew was professional, efficient, and the gutters look fantastic! I highly recommend them.",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "I had a leak in my gutter after the last storm. Moeder Roof Installation came out quickly and fixed it for a reasonable price. They were honest and didn't try to upsell me on anything I didn't need.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Gutter Guard Installation",
+        "text": "I'm so glad I had Moeder Roof Installation install gutter guards on my home. I no longer have to worry about cleaning my gutters, and they've already saved me from having to deal with overflowing water. Great investment!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Aluminum Gutter Installation",
+        "text": "Moeder Roof Installation provided a thorough and professional installation of my new aluminum gutters. They walked me through the whole process, and the crew was very respectful of my property. I would definitely use them again.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Downspout Repair",
+        "text": "Quick and efficient service! My downspout was damaged, and they repaired it in no time. Very responsive and reasonably priced.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Tom H.",
+        "rating": 5,
+        "service": "Gutter Cleaning & Inspection",
+        "text": "The team from Moeder Roof Installation did a fantastic job cleaning my gutters and inspecting them for any potential issues. They were very thorough and provided me with a detailed report. Highly recommend their services.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Moeder Roof Installation | Long Beach Gutters",
+        "description": "Expert gutter installation, repair, and maintenance in Long Beach CA. Seamless gutters, gutter guards, and more. Free estimates!"
+      },
+      "about": {
+        "title": "About Moeder Roof Installation | Long Beach CA",
+        "description": "Learn about Moeder Roof Installation's commitment to quality gutter services in Long Beach and surrounding areas. Experienced and reliable."
+      },
+      "services": {
+        "title": "Gutter Services | Long Beach CA",
+        "description": "Comprehensive gutter services in Long Beach, CA. Installation, repair, maintenance, and gutter guards. Protect your home from water damage."
+      },
+      "contact": {
+        "title": "Contact Moeder Roof Installation | Long Beach",
+        "description": "Contact Moeder Roof Installation for a free gutter inspection and estimate in Long Beach and surrounding areas. Call us today!"
+      },
+      "reviews": {
+        "title": "Moeder Roof Installation Reviews | Long Beach CA",
+        "description": "Read reviews from satisfied Moeder Roof Installation customers in Long Beach and surrounding areas. See why we're the trusted gutter experts."
+      },
+      "service-areas": {
+        "title": "Gutter Service Areas | Moeder Roof Installation",
+        "description": "Moeder Roof Installation provides gutter services throughout Los Angeles County. Find out if we service your area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "seamless-gutter-installation": "/images/service-seamless-gutter-installation.webp",
+      "gutter-repair-and-maintenance": "/images/service-gutter-repair-and-maintenance.webp",
+      "gutter-guard-installation": "/images/service-gutter-guard-installation.webp",
+      "aluminum-gutter-services": "/images/service-aluminum-gutter-services.webp",
+      "copper-gutter-installation": "/images/service-copper-gutter-installation.webp",
+      "downspout-installation-and-repair": "/images/service-downspout-installation-and-repair.webp"
+    },
+    "servicesResponsive": {
+      "seamless-gutter-installation": {
+        "src": "/images/service-seamless-gutter-installation.webp",
+        "srcset": "/images/service-seamless-gutter-installation-400w.webp 400w, /images/service-seamless-gutter-installation-800w.webp 800w, /images/service-seamless-gutter-installation-1200w.webp 1200w, /images/service-seamless-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-repair-and-maintenance": {
+        "src": "/images/service-gutter-repair-and-maintenance.webp",
+        "srcset": "/images/service-gutter-repair-and-maintenance-400w.webp 400w, /images/service-gutter-repair-and-maintenance-800w.webp 800w, /images/service-gutter-repair-and-maintenance-1200w.webp 1200w, /images/service-gutter-repair-and-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-guard-installation": {
+        "src": "/images/service-gutter-guard-installation.webp",
+        "srcset": "/images/service-gutter-guard-installation-400w.webp 400w, /images/service-gutter-guard-installation-800w.webp 800w, /images/service-gutter-guard-installation-1200w.webp 1200w, /images/service-gutter-guard-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "aluminum-gutter-services": {
+        "src": "/images/service-aluminum-gutter-services.webp",
+        "srcset": "/images/service-aluminum-gutter-services-400w.webp 400w, /images/service-aluminum-gutter-services-800w.webp 800w, /images/service-aluminum-gutter-services-1200w.webp 1200w, /images/service-aluminum-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "copper-gutter-installation": {
+        "src": "/images/service-copper-gutter-installation.webp",
+        "srcset": "/images/service-copper-gutter-installation-400w.webp 400w, /images/service-copper-gutter-installation-800w.webp 800w, /images/service-copper-gutter-installation-1200w.webp 1200w, /images/service-copper-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "downspout-installation-and-repair": {
+        "src": "/images/service-downspout-installation-and-repair.webp",
+        "srcset": "/images/service-downspout-installation-and-repair-400w.webp 400w, /images/service-downspout-installation-and-repair-800w.webp 800w, /images/service-downspout-installation-and-repair-1200w.webp 1200w, /images/service-downspout-installation-and-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
